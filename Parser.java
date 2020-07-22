@@ -4,7 +4,7 @@ import commands.Terminal;
 /**
  *
  * @author Mahmoud
- * @author Moahamed
+* @author ta7a
  */
     public class Parser {
 
