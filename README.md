@@ -1,3 +1,6 @@
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
 An operating system interfaces with a user through a Command Line Interpreter (CLI). A CLI is a software module capable of interpreting textual commands coming either from the user’s keyboard or from a script file. A CLI is often referred to as a shell.
 
 the command used in this project is :
@@ -29,3 +32,11 @@ the command used in this project is :
 13- date : output current system date and time.
 
 14- help : list all user commands and the syntax of their arguments.
+
+
+<!-- AUTHORS -->
+ ## AUTHORS
+* Mohamed Abd el-fattah - [LinkedIn](https://www.linkedin.com/in/mohamed-abdelfattah-28a283189/) - abdelfattahmohamed968@gmail.com
+* Mohamed Ashraf Badwi - [LinkedIn](https://www.linkedin.com/in/mohamed-moussa-baab731a5/) - mohamedmoussa44444@gmail.com
+* Mahmoud Ashraf - [LinkedIn](https://www.linkedin.com/in/mahmoud-ashraf-51b3321a2/) - mahmoudashraf043@gmail.com
+
